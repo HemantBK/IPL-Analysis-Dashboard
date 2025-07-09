@@ -1,5 +1,5 @@
 # 🏏 IPL Analysis Dashboard (2008–2024) – Power BI Project
-Welcome to my IPL (Indian Premier League) Analysis Dashboard made using Power BI.
+Welcome to the IPL (Indian Premier League) Analysis Dashboard made using Power BI.
 
 This dashboard gives useful insights about IPL matches, players, and teams. It covers data from 2008 to 2024 and is a great example of real-world data visualization for any data analyst or cricket fan.
 
