@@ -44,7 +44,7 @@ DAX for creating calculated columns and measures
 
 Data Source: IPL dataset (2008–2024)
 
-Background and icons: 
+Background and icons:  https://github.com/HemantBK/IPL-Analysis-Dashboard/tree/main/Images
 
 ![image](https://github.com/user-attachments/assets/bf1fa0ea-4ff2-496f-90a3-2b9ec2233a73)
 
